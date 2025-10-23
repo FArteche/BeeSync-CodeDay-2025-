@@ -1,0 +1,38 @@
+{
+    "name": "BeeSync - Gestão de Apiários",
+    "short_name": "BeeSync",
+    "description": "Gerencie seus apiários e realize inspeções mesmo sem internet",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "background_color": "#FBBF24",
+    "theme_color": "#FBBF24",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/SmallBee.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any"
+        },
+        {
+            "src": "/images/NormalBee.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "/images/SmallBee.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/images/NormalBee.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
